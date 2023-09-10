@@ -1,0 +1,4 @@
+.build/
+compose.yaml
+Dockerfile
+.swiftpm/

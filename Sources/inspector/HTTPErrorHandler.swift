@@ -5,6 +5,8 @@
 //  Created by Sven Herzberg on 2023-09-10.
 //
 
+// Mostly copied from: https://github.com/apple/swift-nio/blob/main/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift
+
 import Foundation
 
 import Logging
